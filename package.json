@@ -1,7 +1,6 @@
 {
-  "name": "CI_CDpipeline",
+  "name": "githubactions",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgeev/GITHUB-ACTIONS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jgeev/GITHUB-ACTIONS/issues"
+  },
+  "homepage": "https://github.com/jgeev/GITHUB-ACTIONS#readme",
+  "description": ""
 }
